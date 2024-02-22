@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #212121;
+  color: white;
+  margin-top: 140px;
+  margin-left: 420px;
+}
+h1 {
+  color: white;
+}
+.box {
+  text-align: center;
+  height: 220px;
+  width: 400px;
+  background-color: blueviolet;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding-top: 15px;
+}
+
+#counterDisplay {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+#limitMessage {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 16px;
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+button {
+  padding: 8px;
+  color: white;
+  background-color: #222222;
+  border-radius: 10px;
+}
+
